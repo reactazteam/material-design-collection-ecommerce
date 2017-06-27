@@ -6,7 +6,8 @@
 * Quick summary
 Material Collection Ecommerce helps you create the collection screen quickly and professionally. It's easy to customize and develop. [Demo Video](https://www.youtube.com/watch?v=bvAij4A8EAw)
 * Version 1.0
-
+![Demo Gif](http://g.recordit.co/28yCIsoseq.gif)
+![Demo Gif](http://g.recordit.co/7YGR2Q8e9u.gif)
 
 ### Installation ###
 
