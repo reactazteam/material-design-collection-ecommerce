@@ -1,7 +1,7 @@
 # README #
 
 
-### Material Collection Ecommerce - React Native Theme ###
+### Material Collection Ecommerce - React Native Themes ###
 
 *For Quick summary
 Material Collection Ecommerce helps you create the collection screen quickly and professionally. It's easy to customize and develop. [Demo Video](https://www.youtube.com/watch?v=bvAij4A8EAw)
